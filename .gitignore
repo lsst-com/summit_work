@@ -1,0 +1,5 @@
+# jupyter notebook checkpoints
+notebooks/.ipynb_checkpoints
+
+# emacs backups
+*~
